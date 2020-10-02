@@ -1,5 +1,5 @@
 package com.example.ojasvi.justjava;
-
+// import android packages
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
